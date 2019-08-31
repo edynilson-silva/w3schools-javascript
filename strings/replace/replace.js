@@ -16,3 +16,4 @@ var n = str.replace(/MICROSOFT/i, "W3Schools");
 
 str = "Please visit Microsoft and Microsoft!";
 var n = str.replace(/Microsoft/g, "W3Schools");
+
