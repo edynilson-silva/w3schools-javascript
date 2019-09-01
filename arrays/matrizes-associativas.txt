@@ -1,0 +1,4 @@
+A diferença entre matrizes e objetos
+Em JavaScript, matrizes usam índices numerados .  
+
+Em JavaScript, os objetos usam índices nomeados 
